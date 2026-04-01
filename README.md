@@ -129,9 +129,7 @@ go run cmd/worker/main.go (worker pool)
 
 ## 🎥 Demo
 
-👉 Upload multiple images simultaneously
-👉 Watch jobs processed asynchronously
-👉 Observe status transitions in real-time
+https://youtu.be/H_X21Jw8ElI
 
 ---
 
